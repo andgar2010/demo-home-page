@@ -1,6 +1,5 @@
 .DS_Store
 .idea
-**/themes/
 *.lock
 
 # Generated files by hugo
