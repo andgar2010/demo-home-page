@@ -215,4 +215,4 @@ url = "contact/"
 
 [module]
   [[module.imports]]
-    path = "github.com/davidsneighbour/hugo-debug"
+    path = "github.com/davidsneighbour/hugo-blockify"
