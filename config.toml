@@ -1,7 +1,3 @@
-[module]
-  [[module.imports]]
-    path = "github.com/davidsneighbour/hugo-blockify"
-
 baseURL = "http://www.example.com"
 title = "johndoe"
 theme = "hugo-coder"
@@ -216,3 +212,7 @@ url = "projects/"
 name = "Contato"
 weight = 5
 url = "contact/"
+
+[module]
+  [[module.imports]]
+    path = "github.com/davidsneighbour/hugo-blockify"
